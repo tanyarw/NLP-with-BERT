@@ -6,5 +6,5 @@ Implementation of sentiment analysis using BERT on IMDB dataset
 The dataset for this model can be sourced from http://ai.stanford.edu/~amaas/data/sentiment/
 
 ## Evaluation
-Accuracy: 90.08%
+Accuracy: 90.08% <br>
 Validation set accuracy: 94.07%
